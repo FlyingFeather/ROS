@@ -1,0 +1,8 @@
+prefix=/home/algerbra/catkin_ws/devel
+
+Name: ros_aiml
+Description: Description of ros_aiml
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/algerbra/catkin_ws/devel/lib 
+Requires: 
